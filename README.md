@@ -32,6 +32,7 @@ To build and run the project:
 - `Config/` - Project configuration files
 - `Binaries/` - Compiled binaries
 - `Intermediate/` - Build intermediates
+- `Plugins/` - Third-party or custom UE used by the project
 - `Saved/` - Autosaves, logs, and crash reports
 
 ## Contributing
