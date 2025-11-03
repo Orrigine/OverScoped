@@ -1,6 +1,10 @@
 # OverScoped
 
-OverScoped is a game project developed with Unreal Engine 5 as part of a course on Unreal Engine.
+<p align="center">
+  <img src="Content/Splash/Splash.png" alt="Le LAB — Splash" style="max-width:100%;height:auto;" />
+</p>
+
+OverScoped is a game project developed with Unreal Engine 5.4.4 as part of a course on Unreal Engine.
 
 ## Table of Contents
 - [About](#about)

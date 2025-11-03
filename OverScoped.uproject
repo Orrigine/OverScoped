@@ -32,8 +32,12 @@
 			]
 		},
 		{
-			"Name": "SkeletalMeshModelingTools",
+			"Name": "SunPosition",
 			"Enabled": true
-		}
+		},
+    {
+      "Name": "SkeletalMeshModelingTools",
+      "Enabled": true
+    }
 	]
 }
