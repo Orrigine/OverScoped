@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.0.0",
+	"FriendlyName": "Nav3D",
+	"Description": "A comprehensive 3D navigation system for Unreal Engine 5, providing volumetric pathfinding using Sparse Voxel Octrees, with a feature-rich tactical reasoning feature for finding cover spots and mutual visibility between agents",
+	"Category": "AI",
+	"CreatedBy": "Darby Costello",
+	"CreatedByURL": "https://github.com/darbycostello",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": 
+	[
+		{
+			"Name": "Nav3D",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": ["Win64"]
+		},
+		{
+			"Name": "Nav3DEditor",
+			"Type": "Editor",
+			"LoadingPhase":  "PostEngineInit",
+			"WhitelistPlatforms": ["Win64"]
+		}
+	]
+}
